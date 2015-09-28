@@ -1,4 +1,4 @@
-﻿smsapi-contacts-python
+﻿smsapicom-contacts-python
 =============
 
 Client for SMSAPI contacts rest api.
@@ -12,13 +12,13 @@ requests
 ## INSTALLATION:
 If You have pip installed:
 
-    sudo pip install smsapi-contacts
+    sudo pip install smsapicom-contacts
 
 else You can install manually:
 
-    git clone https://github.com/smsapi/smsapi-contacts-python-client.git
+    git clone https://github.com/smsapicom/smsapicom-contacts-python-client.git
 
-    cd smsapi-contacts-python
+    cd smsapicom-contacts-python
 
     python setup.py install
 
@@ -115,4 +115,4 @@ else You can install manually:
 ```
 
 ## LICENSE
-[Apache 2.0 License](https://github.com/smsapi/smsapi-contacts-python/blob/master/LICENSE)
+[Apache 2.0 License](https://github.com/smsapicom/smsapicom-contacts-python/blob/master/LICENSE)

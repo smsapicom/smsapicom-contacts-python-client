@@ -5,13 +5,13 @@ from smsapicontacts import __version__
 from setuptools import setup, find_packages
 
 setup(
-    name='smsapi-contacts',
+    name='smsapicom-contacts',
     version=__version__,
-    description='Python client for SMSAPI contacts rest API.',
+    description='Python client for SMSAPI.com contacts rest API.',
     long_description=open('README.md').read(),
     author='SMSAPI',
-    author_email='bok@smsapi.pl',
-    url='https://github.com/smsapi/smsapi-contacts-python-client',
+    author_email='support@smsapi.com',
+    url='https://github.com/smsapicom/smsapicom-contacts-python-client',
     packages=find_packages(),
     license=open('LICENSE').read(),
     install_requires=[

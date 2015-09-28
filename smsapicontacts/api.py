@@ -14,7 +14,7 @@ contact_params = ['first_name', 'last_name', 'phone_number', 'email',
 
 class ContactsApi(object):
 
-    host = 'https://api.smsapi.pl/'
+    host = 'https://api.smsapi.com/'
 
     def __init__(self, **kwargs):
         """
